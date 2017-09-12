@@ -8,7 +8,7 @@
 
 To convert **".docx"** file to **".tex"** file and get compiled PDF, follow the following steps:
 
-1] Visit http://docx2latex.pythonanywhere.com/
+1] Visit https://www.docx2latex.com/
 
 2] Scroll down and click on **"upload".**
 
