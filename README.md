@@ -1,9 +1,9 @@
 # docx-to-latex-online-converter
-###                         [Docx to latex online converter](http://docx2latex.pythonanywhere.com/) 
+###                         [Docx to latex online converter](http://docx2latex.com/) 
 
 ##  OR
 
-###                         [Word to latex online converter](http://docx2latex.pythonanywhere.com/)
+###                         [Word to latex online converter](http://docx2latex.com/)
 
 
 To convert **".docx"** file to **".tex"** file and get compiled PDF, follow the following steps:
